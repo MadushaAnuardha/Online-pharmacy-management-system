@@ -19,7 +19,7 @@
     "mongoose": "^5.2.14",
     "mysql": "^2.16.0",
     "nexmo": "^2.3.2",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "socket.io": "^2.1.1"
   }
 }
